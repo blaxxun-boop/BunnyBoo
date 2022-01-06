@@ -1,0 +1,6 @@
+bin
+obj
+/packages
+BunnyBoo.sln.DotSettings.user
+.idea
+.vs
